@@ -1,5 +1,5 @@
 """
-DAG de ETL dos convenios do Ceara Transparente -> PostgreSQL.
+DAG de ETL de contratos do Ceara Transparente -> PostgreSQL.
 
 Pipeline (3 tasks encadeadas):
   1. coletar   -> baixa os convenios do mes da API publica
